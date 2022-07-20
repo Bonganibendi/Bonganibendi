@@ -8,4 +8,4 @@ The repositories I have created are my demo and portfolio projects. The rest are
 - 💬 Reach out to me about anything software related
 - 📫 How to reach me: bonganibendile@gmail.com
 
-### Language: 
+### Languages & Frameworks: 
